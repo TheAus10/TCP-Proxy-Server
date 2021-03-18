@@ -1,0 +1,383 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Feb 2021 16:12:05 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Powered-By: PHP/7.2.27
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: public, max-age=10800
+X-Content-Type-Options: nosniff
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+Last-Modified: Thu, 25 Feb 2021 16:12:05 GMT
+Vary: Cookie,Accept-Encoding
+Content-Type: text/html; charset=utf-8
+X-Varnish: 569508024 558564320
+Age: 4213
+Via: 1.1 varnish-v4
+ETag: W/"1614269525-1"
+grace: normal(limited)
+Transfer-Encoding: chunked
+Connection: keep-alive
+Accept-Ranges: bytes
+
+008000
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!--[if IE]><![endif]-->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" title="The Abyssline Project" href="http://abyssline.info/rss.xml" type="application/rss+xml" />
+<link rel="shortcut icon" href="http://abyssline.info/sites/all/themes/scratchpads/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+  <title>The Abyssline Project</title>
+  <link type="text/css" rel="stylesheet" href="//abyssline.info/sites/abyssline.info/files/advagg_css/css__HC8wUhQuglGtiJVsK7F2i4AWuyM6umjWw1Xva2Ek1A8__c9X5ySqH8yptWydpd6oWmWBOAxqfQiymBD_xZSLk6R0__CirpVkWrddCrpKWbZfWXvbwVN8pmqviBo8YZAKaYUQg.css" media="all" />
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="//abyssline.info/sites/abyssline.info/files/advagg_css/css__GuBcvhFB_-fswxhbycYya2JRgqrqDq5y-pWYcuQbqp4__5h6_elrgEAXONSci50a6ewD4zUldIVoOgFFSjk7rVzg__CirpVkWrddCrpKWbZfWXvbwVN8pmqviBo8YZAKaYUQg.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="//abyssline.info/sites/abyssline.info/files/advagg_css/css__wxRBHPf0PIq6kCJXm57TkZCESl8zp_O0VduSG6wH0S0__GhwE4qu0hVadFwC_xt42ge_nqKc1E-MOuzyxoLZ7d9I__CirpVkWrddCrpKWbZfWXvbwVN8pmqviBo8YZAKaYUQg.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="//abyssline.info/sites/abyssline.info/files/advagg_css/css__ISa-1zfLkp-52D_pPloP6gBpDvJwKu9Kitwbfnm33JY__PDj463LZhTo68R-x__a4AOf-EyYxSMW6sZpiNjtiKlQ__CirpVkWrddCrpKWbZfWXvbwVN8pmqviBo8YZAKaYUQg.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="//abyssline.info/sites/abyssline.info/files/advagg_css/css__Sisgbo-UreLp3cHBWfv37bIck8X5olI1W5xaYzDaATc__9XoSDv750KzHbfRkMww8VsZREmLh-SRR3SnhCYOEF2Q__CirpVkWrddCrpKWbZfWXvbwVN8pmqviBo8YZAKaYUQg.css" media="all" />
+<!--<![endif]-->
+  <script type="text/javascript" src="//abyssline.info/sites/abyssline.info/files/advagg_js/js__jQBI8pfG-VfYV1aN0gSeRXUYps9-4-M-XVb2H2ZbWuw__SyNVdbb0UiBMvI1oo0AzTY4CH83E7BmTR7ZP1Wwz_VE__CirpVkWrddCrpKWbZfWXvbwVN8pmqviBo8YZAKaYUQg.js"></script>
+<script type="text/javascript" src="//abyssline.info/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?v=2.1.6"></script>
+<script type="text/javascript" src="//abyssline.info/sites/abyssline.info/files/advagg_js/js__5Am6StuMurUNMljTlHcvnGfd9iIQVolO59l_jIcjwwQ__SKFmWxsJXlTHIQfQLiMp6B515NsC5rSltI65-XFUzNo__CirpVkWrddCrpKWbZfWXvbwVN8pmqviBo8YZAKaYUQg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"scratchpads","theme_token":"JRRmd3Cee4IQYcUzguT0d1-SEQn8m4EKrO-Glg9fiVA","jquery_version":"1.8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/overlay\/overlay-parent.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"sites\/all\/modules\/custom\/entityfilter\/ckeditor\/entityfilter.css":1,"sites\/all\/modules\/custom\/field_quick_delete\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/remote_issue_tab\/css\/remote_issue_tab.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_sharethis\/css\/scratchpads_sharethis.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_show_taxa_revisions\/css\/scratchpads_show_taxa_revisions.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_thumbnail_style_alter\/css\/scratchpads_thumbnail_style_alter.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/custom\/spm\/css\/spm.css":1,"sites\/all\/modules\/custom\/twitter_filter\/css\/twitter_filter.css":1,"sites\/all\/modules\/custom\/twitterscript\/css\/twitterscript.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_species\/modules\/bhl\/bhl.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/biblio\/biblio.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"modules\/openid\/openid.css":1,"public:\/\/spamicide\/feed_me.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_search_block\/css\/scratchpads_search_block.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_front\/css\/scratchpads_front.css":1,"sites\/all\/modules\/custom\/creative_commons\/css\/creative_commons.css":1,"sites\/all\/themes\/scratchpads\/css\/ie8.css":1,"public:\/\/css\/css_tcVOMdlRmJTsBkm7ZJABjZ3Oct1H-tB7QsRkmUkgNco.css":1,"sites\/all\/themes\/scratchpads\/css\/tabs.css":1,"sites\/all\/themes\/scratchpads\/css\/sites.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/scratchpads\/css\/global.css":1,"ie::normal::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default.css":1,"ie::normal::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default.css":1,"narrow::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default.css":1,"normal::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default.css":1,"wide::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1},"js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/jquery.ba-bbq.js":1,"modules\/overlay\/overlay-parent.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/custom\/noclickety\/noclickety.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_contact\/js\/scratchpads_contact.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_file_colorboxed\/js\/scratchpads_file_colorboxed.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_issues_block\/js\/scratchpads_issues_block.js":1,"sites\/all\/modules\/custom\/spm\/js\/spm_config.js":1,"sites\/all\/modules\/custom\/twitterscript\/js\/twitterscript.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/contrib\/mediaelement\/mediaelement.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_citethispage\/js\/pagestate.js":1,"modules\/openid\/openid.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_search_block\/js\/scratchpads_search_block.js":1,"sites\/all\/themes\/scratchpads\/js\/scratchpads.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"mediaelementAll":true,"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/abyssline.info\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 width=\u002216\u0022 height=\u002216\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/abyssline.info\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 width=\u002232\u0022 height=\u002232\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/abyssline.info\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 width=\u002232\u0022 height=\u002232\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":550,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/abyssline.info\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 width=\u002232\u0022 height=\u002232\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/abyssline.info\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 width=\u002232\u0022 height=\u002232\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"overlay":{"paths":{"admin":"node\/*\/webform\nnode\/*\/webform\/*\nnode\/*\/webform-results\nnode\/*\/webform-results\/*\nnode\/*\/submission\/*\nbhl_viewer\/*\nnode\/*\/clone\nfield-collection\/*\/*\/edit\nfield-collection\/*\/*\/delete\nfield-collection\/*\/add\/*\/*\nfile\/add\nfile\/add\/*\nfile\/*\/edit\nfile\/*\/delete\ninsert-from-view\/*\nmedia\/*\/edit\/*\nmedia\/browser\nmedia\/browser\/*\nnode\/*\/edit\nnode\/*\/delete\nnode\/*\/revisions\nnode\/*\/revisions\/*\/revert\nnode\/*\/revisions\/*\/delete\nnode\/add\nnode\/add\/*\nuser\/*\/openid\nuser\/*\/openid\/delete\noverlay\/dismiss-message\npublication\/add\npublication\/add\/*\npublication\/*\/edit\npublication\/*\/delete\nfile\/*\/move\nscratchpads-front\/edit\nsetup\nsetup\/*\nsetup-complete\nuser\/register\nuser\/*\/shortcuts\nnode\/*\/simplenews\nuser\/*\/spambot\nadmin\nadmin\/*\nbatch\ntaxonomy\/term\/*\/edit\nuser\/*\/cancel\nuser\/*\/edit\nuser\/*\/edit\/*\nrelation-select\/add\/*\/*\nnode\/*\/revisions\/view\/*\/*\nimport\nimport\/*\nbiblio\/import","non_admin":"admin\/structure\/block\/demo\/*\nimport\/*\/xlstemplate\nadmin\/reports\/status\/php"},"pathPrefixes":[],"ajaxCallback":"overlay-ajax"},"viewsSlideshow":{"front_page_slideshow-default_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"front_page_slideshow-default_1":{"bottom":{"type":"viewsSlideshowPagerFields","master_pager":"0"}}},"viewsSlideshowPagerFields":{"front_page_slideshow-default_1":{"bottom":{"activatePauseOnHover":1}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_front_page_slideshow-default_1":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"front_page_slideshow-default_1","effect":"none","transition_advanced":1,"timeout":0,"speed":700,"delay":0,"sync":1,"random":0,"pause":0,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"urlIsAjaxTrusted":{"\/scratchpads-front?destination=scratchpads-front":true,"\/":true},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-2428547-2', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+<body class="html front not-logged-in page-scratchpads-front scratchpad-colour-154D8C site-abyssline-info">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-slide-top-wrapper" class="zone-wrapper zone-slide-top-wrapper clearfix">  
+  <div id="zone-slide-top" class="zone zone-slide-top clearfix container-12">
+    <aside class="grid-12 region region-slide-top" id="region-slide-top">
+  <div class="region-inner region-slide-top-inner">
+    <div class="block block-user contextual-links-region block-login block-user-login odd" id="block-user-login">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form style="display:none" action="/scratchpads-front?destination=scratchpads-front" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="clearfix" style="float:right"><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input tabindex="1" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input tabindex="2" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-openid-identifier">
+  <label for="edit-openid-identifier">Log in using OpenID </label>
+ <input type="text" id="edit-openid-identifier" name="openid_identifier" value="" size="15" maxlength="255" class="form-text" />
+<div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input tabindex="3" type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div><div class="form-item form-type-checkbox form-item-remember-me">
+ <input tabindex="4" type="checkbox" id="edit-remember-me" name="remember_me" value="1" checked="checked" class="form-checkbox" />  <label class="option" for="edit-remember-me">Remember me </label>
+
+</div>
+<div class="account-links"><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li><li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div></div><input type="hidden" name="form_build_id" value="form-AItSjoRIpn9DlZY4KCp4Ci4_3x9QV7G-gH73pyL30ck" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="hidden" name="openid.return_to" value="http://abyssline.info/openid/authenticate?destination=scratchpads-front" />
+<div class="edit-feed-me-wrapper"><div class="form-item form-type-textfield form-item-feed-me">
+  <label for="edit-feed-me">feed me </label>
+ <input type="text" id="edit-feed-me" name="feed_me" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div><div class="item-list"><ul class="openid-links"><li class="openid-link first"><a href="#openid-login">Log in using OpenID</a></li><li class="user-link last"><a href="#">Cancel OpenID login</a></li></ul></div></div></form>    </div>
+  </div>
+</div><a href="/user" class="scratchpads-slide-toggle">Log in</a>  </div>
+</aside>  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-12 region region-secondary-menu" id="region-secondary-menu">
+	<ul class="links"><li class="0 first"><a href="/contact/1">Contact us</a></li><li class="1 last"><a href="/contact/2">Report abuse</a></li></ul></div>
+<div class="grid-8 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="The Abyssline Project" class="active"><img src="http://abyssline.info/sites/abyssline.info/files/ABYSSLINE_LOGO_WHITE%281200pix%29-11.png" alt="The Abyssline Project" id="logo" /></a>      </div>
+                        <hgroup class="site-name-slogan">        
+                                
+        <h1 class="site-name"><a href="/" title="Home" class="active">The Abyssline Project</a></h1>
+                              </hgroup>
+          </div>
+          </div>
+</div><div class="grid-4 region region-header" id="region-header">
+  <div class="region-inner region-header-inner">
+    <div class="block block-search contextual-links-region block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="scratchpads-search-block-input"><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-search-block-form--2-autocomplete" value="http://abyssline.info/index.php?q=scratchpads_search_block" disabled="disabled" class="autocomplete" />
+</div>
+<div class="form-item form-type-radios form-item-facet">
+  <div id="edit-facet" class="form-radios"><div class="form-item form-type-radio form-item-facet">
+ <input type="radio" id="edit-facet-all" name="facet" value="_all" checked="checked" class="form-radio" />  <label class="option" for="edit-facet-all">All </label>
+
+</div>
+<div class="form-item form-type-radio form-item-facet">
+ <input type="radio" id="edit-facet-taxonomy" name="facet" value="_taxonomy" class="form-radio" />  <label class="option" for="edit-facet-taxonomy">Taxonomy </label>
+
+</div>
+</div>
+</div>
+<input type="hidden" name="form_build_id" value="form-gEQzpEuNfXuJnAAx66oBYyznoc8RuitVFhhNyTCU2pk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div>
+</div></form>    </div>
+  </div>
+</div>  </div>
+</div><div  class="grid-12 region region-menu" id="region-menu">
+	<div  class="region-inner region-menu-inner">
+        <nav class="navigation">
+      <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix main-menu"><li class="menu-501 first active"><a href="/" class="active">Home</a></li><li class="menu-2850"><a href="/content/principal-investigators">Principal Investigators</a></li><li class="menu-2848"><a href="/content/abyssline-cruises">Cruises</a></li><li class="menu-237"><a href="/biblio">Literature</a></li><li class="menu-240"><a href="/gallery">Media gallery</a></li><li class="menu-2874 last"><a href="/content/data">Data</a></li></ul>    </nav>
+          </div>
+</div>
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+    
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+        
+            <div class="block block-system block-main block-system-main odd block-without-title gridless" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="grid-4 alpha"><h1 id="front-page-title" class="title"> The Abyssal Biological Baseline Project</h1> <p>ABYSSLINE is an international research program to undertake benthic biological baseline studies in the UK polymetallic nodule mining claim in the central Pacific ocean. With a focus on open data, the project is led by the University of Hawai’i at Manoa (USA), Hawai’i Pacific University (USA), the Natural History Museum London (UK), the National Oceanography Centre (UK), Senckenberg Gesellschaft fur Naturforschung (Germany), Uni Research (Norway), and the International Research Institute of Stavanger (Norway).</p>
+<p>Please note this site is currently under development.</p>
+
+
+ </div><div class="grid-8 omega"><div class="view view-front-page-slideshow view-id-front_page_slideshow view-display-id-default view-dom-id-d4ed25a051ae66e08b2c831b59036d0e">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_front_page_slideshow-default_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_front_page_slideshow-default_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_front_page_slideshow-default_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_front_page_slideshow-default_1_0'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-rendered-entity">        <span class="field-content"><div id="file-67" class="file file-image file-image-jpeg contextual-links-region" class="file file-image file-image-jpeg contextual-links-region">
+
+          <h2 class="element-invisible"><a href="http://abyssline.info/sites/abyssline.info/files/RV%20Melville%20from%20cruise%20AB01%20credit%20Helena%20Winklund%20Oct%20%202013.JPG">RV Melville from cruise AB01 credit Helena Winklund Oct  2013</a></h2>
+      
+  
+  <div class="content">
+    <span id="styles-0-0" class="styles file-styles slideshow_large">  <a href="/file/67"><img typeof="foaf:Image" src="http://abyssline.info/sites/abyssline.info/files/styles/slideshow_large/public/RV%20Melville%20from%20cruise%20AB01%20credit%20Helena%20Winklund%20Oct%20%202013.JPG?itok=LJIdhR46" width="619" height="463" title="RV Melville from cruise AB01 credit Helena Winklund Oct  2013" /></a></span>  </div>
+
+  
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-cc-licence caption">        <div class="field-content"><div id="slideshow-transparency" class='title_only'></div>
+<div id="slideshow-content" class='title_only'>
+<h3>RV Melville from cruise AB01 credit Helena Winklund Oct  2013</h3>
+
+</div></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_front_page_slideshow-default_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_front_page_slideshow-default_1_1'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-rendered-entity">        <span class="field-content"><div id="file-68" class="file file-image file-image-jpeg contextual-links-region" class="file file-image file-image-jpeg contextual-links-region">
+
+          <h2 class="element-invisible"><a href="http://abyssline.info/sites/abyssline.info/files/RV%20Thomas%20G%20Thompson%20from%20cruise%20AB02%20credit%20Helena%20Winklund%20Feb%202015.jpg">RV Thomas G Thompson from cruise AB02 credit Helena Winklund Feb 2015</a></h2>
+      
+  
+  <div class="content">
+    <span id="styles-2-0" class="styles file-styles slideshow_large">  <a href="/file/68"><img id="2" typeof="foaf:Image" src="http://abyssline.info/sites/abyssline.info/files/styles/slideshow_large/public/RV%20Thomas%20G%20Thompson%20from%20cruise%20AB02%20credit%20Helena%20Winklund%20Feb%202015.jpg?itok=peXGp0ct" width="619" height="463" title="RV Thomas G Thompson from cruise AB02 credit Helena Winklund Feb 2015" /></a></span>  </div>
+
+  
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-cc-licence caption">        <div class="field-content"><div id="slideshow-transparency" class='title_only'></div>
+<div id="slideshow-content" class='title_only'>
+<h3>RV Thomas G Thompson from cruise AB02 credit Helena Winklund Feb 2015</h3>
+
+</div></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_front_page_slideshow-default_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_front_page_slideshow-default_1_2'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-rendered-entity">        <span class="field-content"><div id="file-69" class="file file-image file-image-jpeg contextual-links-region" class="file file-image file-image-jpeg contextual-links-region">
+
+          <h2 class="element-invisible"><a href="http://abyssline.info/sites/abyssline.info/files/The%20Cruise%20Photo%20from%20cruise%20AB02%20credit%20Helena%20Winklund%20Mar%202015.JPG">The Cruise Photo from cruise AB02 credit Helena Winklund Mar 2015</a></h2>
+      
+  
+  <div class="content">
+    <span id="styles-4-0" class="styles file-styles slideshow_large">  <a href="/file/69"><img id="4" typeof="foaf:Image" src="http://abyssline.info/sites/abyssline.info/files/styles/slideshow_large/public/The%20Cruise%20Photo%20from%20cruise%20AB02%20credit%20Helena%20Winklund%20Mar%202015.JPG?itok=lX7uL-s3" width="619" height="463" title="The Cruise Photo from cruise AB02 credit Helena Winklund Mar 2015" /></a></span>  </div>
+
+  
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-cc-licence caption">        <div class="field-content"><div id="slideshow-transparency" class='title_only'></div>
+<div id="slideshow-content" class='title_only'>
+<h3>The Cruise Photo from cruise AB02 credit Helena Winklund Mar 2015</h3>
+
+</div></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_front_page_slideshow-default_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-last views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_front_page_slideshow-default_1_3'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-rendered-entity">        <span class="field-content"><div id="file-72" class="file file-image file-image-jpeg contextual-links-region" class="file file-image file-image-jpeg contextual-links-region">
+
+          <h2 class="element-invisible"><a href="http://abyssline.info/sites/abyssline.info/files/Bathysaurus%20mollis%20from%20cruise%20AB01%20credit%20Diva%20Amon%20and%20Craig%20Smith%2C%20ABYSSLINE%20Project%20Oct%202013.jpg">Bathysaurus mollis from cruise AB01 credit Diva Amon and Craig Smith, ABYSSLINE Project Oct 2013</a></h2>
+      
+  
+  <div class="content">
+    <span id="styles-6-0" class="styles file-styles slideshow_large">  <a href="/file/72"><img id="6" typeof="foaf:Image" src="http://abyssline.info/sites/abyssline.info/files/styles/slideshow_large/public/Bathysaurus%20mollis%20from%20cruise%20AB01%20credit%20Diva%20Amon%20and%20Craig%20Smith%2C%20ABYSSLINE%20Project%20Oct%202013.jpg?itok=i2rnp3tI" width="619" height="463" title="Bathysaurus mollis from cruise AB01 credit Diva Amon and Craig Smith, ABYSSLINE Project Oct 2013" /></a></span>  </div>
+
+  
+</div>
+</span>  </div>  
+  <div class="views-field views-field-
+002eea
+field-cc-licence caption">        <div class="field-content"><div id="slideshow-transparency" class='title_only'></div>
+<div id="slideshow-content" class='title_only'>
+<h3>Bathysaurus mollis from cruise AB01 credit Diva Amon and Craig Smith,...</h3>
+
+</div></div>  </div></div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="widget_pager_bottom_front_page_slideshow-default_1" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_bottom_front_page_slideshow-default_1_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-first" aria-controls="views_slideshow_cycle_div_front_page_slideshow-default_1_0">
+  <div class="views-field-rendered-entity">
+    <div class="views-content-rendered-entity">
+    <div id="file-67" class="file file-image file-image-jpeg contextual-links-region" class="file file-image file-image-jpeg contextual-links-region">
+
+          <h2 class="element-invisible"><a href="http://abyssline.info/sites/abyssline.info/files/RV%20Melville%20from%20cruise%20AB01%20credit%20Helena%20Winklund%20Oct%20%202013.JPG">RV Melville from cruise AB01 credit Helena Winklund Oct  2013</a></h2>
+      
+  
+  <div class="content">
+    <span id="styles-1-0" class="styles file-styles slideshow_thumbnail">  <img id="1" typeof="foaf:Image" src="http://abyssline.info/sites/abyssline.info/files/styles/slideshow_thumbnail/public/RV%20Melville%20from%20cruise%20AB01%20credit%20Helena%20Winklund%20Oct%20%202013.JPG?itok=vxyFNs05" width="154" height="115" title="RV Melville from cruise AB01 credit Helena Winklund Oct  2013" /></span>  </div>
+
+  
+</div>
+  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_front_page_slideshow-default_1_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_front_page_slideshow-default_1_1">
+  <div class="views-field-rendered-entity">
+    <div class="views-content-rendered-entity">
+    <div id="file-68" class="file file-image file-image-jpeg contextual-links-region" class="file file-image file-image-jpeg contextual-links-region">
+
+          <h2 class="element-invisible"><a href="http://abyssline.info/sites/abyssline.info/files/RV%20Thomas%20G%20Thompson%20from%20cruise%20AB02%20credit%20Helena%20Winklund%20Feb%202015.jpg">RV Thomas G Thompson from cruise AB02 credit Helena Winklund Feb 2015</a></h2>
+      
+  
+  <div class="content">
+    <span id="styles-3-0" class="styles file-styles slideshow_thumbnail">  <img id="3" typeof="foaf:Image" src="http://abyssline.info/sites/abyssline.info/files/styles/slideshow_thumbnail/public/RV%20Thomas%20G%20Thompson%20from%20cruise%20AB02%20credit%20Helena%20Winklund%20Feb%202015.jpg?itok=uzpY_TZe" width="154" height="115" title="RV Thomas G Thompson from cruise AB02 credit Helena Winklund Feb 2015" /></span>  </div>
+
+  
+</div>
+  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_front_page_slideshow-default_1_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_front_page_slideshow-default_1_2">
+  <div class="views-field-rendered-entity">
+    <div class="views-content-rendered-entity">
+    <div id="file-69" class="file file-image file-image-jpeg contextual-links-region" class="file file-image file-image-jpeg contextual-links-region">
+
+          <h2 class="element-invisible"><a href="http://abyssline.info/sites/abyssline.info/files/The%20Cruise%20Photo%20from%20cruise%20AB02%20credit%20Helena%20Winklund%20Mar%202015.JPG">The Cruise Photo from cruise AB02 credit Helena Winklund Mar 2015</a></h2>
+      
+  
+  <div class="content">
+    <span id="styles-5-0" class="styles file-styles slideshow_thumbnail">  <img id="5" typeof="foaf:Image" src="http://abyssline.info/sites/abyssline.info/files/styles/slideshow_thumbnail/public/The%20Cruise%20Photo%20from%20cruise%20AB02%20credit%20Helena%20Winklund%20Mar%202015.JPG?itok=NE8ARvuf" width="154" height="115" title="The Cruise Photo from cruise AB02 credit Helena Winklund Mar 2015" /></span>  </div>
+
+  
+</div>
+  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_front_page_slideshow-default_1_3" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even views-row-last" aria-controls="views_slideshow_cycle_div_front_page_slideshow-default_1_3">
+  <div class="views-field-rendered-entity">
+    <div class="views-content-rendered-entity">
+    <div id="file-72" class="file file-image file-image-jpeg contextual-links-region" class="file file-image file-image-jpeg contextual-links-region">
+
+          <h2 class="element-invisible"><a href="http://abyssline.info/sites/abyssline.info/files/Bathysaurus%20mollis%20from%20cruise%20AB01%20credit%20Diva%20Amon%20and%20Craig%20Smith%2C%20ABYSSLINE%20Project%20Oct%202013.jpg">Bathysaurus mollis from cruise AB01 credit Diva Amon and Craig Smith, ABYSSLINE Project Oct 2013</a></h2>
+      
+  
+  <div class="content">
+    <span id="styles-7-0" class="styles file-styles slideshow_thumbnail">  <img id="7" typeof="foaf:Image" src="http://abyssline.info/sites/abyssline.info/files/styles/slideshow_thumbnail/public/Bathysaurus%20mollis%20from%20cruise%20AB01%20credit%20Diva%20Amon%20and%20Craig%20Smith%2C%20ABYSSLINE%20Project%20Oct%202013.jpg?itok=bGGNpfgC" width="154" height="115" title="Bathysaurus mollis from cruise AB01 credit Diva Amon and Craig Smith, ABYSSLINE Project Oct 2013" /></span>  </div>
+
+  
+</div>
+  </div>
+</div>
+</div>
+</div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>    </div>
+  </div>
+</div><section class="block block-views contextual-links-region block-front-page-blocks-block-1 block-views-front-page-blocks-block-1 even grid-4 alpha" id="block-views-front-page-blocks-block-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Recent Pages</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-front-page-blocks view-id-front_page_blocks view-display-id-block_1 alpha  view-dom-id-e503e26f48eee66e62f44cdc6bb1d28f">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/data">Data</a></span>  </div>  
+  <div class="views-field views-field-created">        <p class="field-content description">chiho - 2015-09-23</p>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/principal-investigators">Principal Investigators</a></span>  </div>  
+  <div class="views-field views-field-created">        <p class="field-content description">Muriel Rabone - 2015-09-23</p>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"> <p><strong>Principal Investigators</strong></p></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/abyssline-cruises">ABYSSLINE Cruises</a></span>  </div

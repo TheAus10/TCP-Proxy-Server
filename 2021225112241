@@ -1,0 +1,409 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Feb 2021 16:27:00 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Powered-By: PHP/7.2.27
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: public, max-age=10800
+X-Content-Type-Options: nosniff
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+Last-Modified: Thu, 25 Feb 2021 16:27:00 GMT
+Vary: Cookie,Accept-Encoding
+Content-Type: text/html; charset=utf-8
+X-Varnish: 570262183 558728735
+Age: 3337
+Via: 1.1 varnish-v4
+ETag: W/"1614270420-1"
+grace: none
+Transfer-Encoding: chunked
+Connection: keep-alive
+Accept-Ranges: bytes
+
+008000
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!--[if IE]><![endif]-->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="citation_title" content="Les phlébotomes (Diptera: Psychodidae) de la Guyane française. I Description du mâle de Lutzomyia (Trichopygomyia) depaquiti n. sp." />
+<meta name="citation_author" content="GANTIER J.C." />
+<meta name="citation_publication_date" content="2006" />
+<meta name="citation_journal_title" content="Parasite" />
+<meta name="citation_volume" content="13" />
+<meta name="citation_issn" content="1252-607X" />
+<link rel="alternate" title="Zootaxa" href="http://www.zootaxa.info/rss.xml" type="application/rss+xml" />
+<link rel="shortcut icon" href="http://www.zootaxa.info/sites/all/themes/scratchpads/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta name="citation_author" content="GABORIT P." />
+<meta name="citation_author" content="RABARISON P." />
+  <title>Zootaxa | A rapid international journal for animal taxonomists</title>
+  <link type="text/css" rel="stylesheet" href="//zootaxa.info/sites/zootaxa.info/files/advagg_css/css__YbUL0-UaKviJKq92IkkVQWhIsWCigZFAPCtjYEQcdd8__cVyxurJuC0eJ099aUsn0qeKUbpGgr8lD3ShMbSeONRk__3wKn-QAtqjy3WhExZmqNVMBWwDHJp_fLhLBu3sFzoyo.css" media="all" />
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="//zootaxa.info/sites/zootaxa.info/files/advagg_css/css__GuBcvhFB_-fswxhbycYya2JRgqrqDq5y-pWYcuQbqp4__5h6_elrgEAXONSci50a6ewD4zUldIVoOgFFSjk7rVzg__3wKn-QAtqjy3WhExZmqNVMBWwDHJp_fLhLBu3sFzoyo.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="//zootaxa.info/sites/zootaxa.info/files/advagg_css/css__wxRBHPf0PIq6kCJXm57TkZCESl8zp_O0VduSG6wH0S0__GhwE4qu0hVadFwC_xt42ge_nqKc1E-MOuzyxoLZ7d9I__3wKn-QAtqjy3WhExZmqNVMBWwDHJp_fLhLBu3sFzoyo.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="//zootaxa.info/sites/zootaxa.info/files/advagg_css/css__ISa-1zfLkp-52D_pPloP6gBpDvJwKu9Kitwbfnm33JY__PDj463LZhTo68R-x__a4AOf-EyYxSMW6sZpiNjtiKlQ__3wKn-QAtqjy3WhExZmqNVMBWwDHJp_fLhLBu3sFzoyo.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="//zootaxa.info/sites/zootaxa.info/files/advagg_css/css__Sisgbo-UreLp3cHBWfv37bIck8X5olI1W5xaYzDaATc__9XoSDv750KzHbfRkMww8VsZREmLh-SRR3SnhCYOEF2Q__3wKn-QAtqjy3WhExZmqNVMBWwDHJp_fLhLBu3sFzoyo.css" media="all" />
+<!--<![endif]-->
+  <script type="text/javascript" src="//www.zootaxa.info/sites/zootaxa.info/files/advagg_js/js__jQBI8pfG-VfYV1aN0gSeRXUYps9-4-M-XVb2H2ZbWuw__SyNVdbb0UiBMvI1oo0AzTY4CH83E7BmTR7ZP1Wwz_VE__3wKn-QAtqjy3WhExZmqNVMBWwDHJp_fLhLBu3sFzoyo.js"></script>
+<script type="text/javascript" src="//www.zootaxa.info/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?v=2.1.6"></script>
+<script type="text/javascript" src="//www.zootaxa.info/sites/zootaxa.info/files/advagg_js/js__O2-Mfrpb6mHF0S5LAfIan_d38-kqXvv66sN_ZsHG9Qo__tjuj8p5TZsuiAuw40CUZMaBxpUxwo7Z10-h4sWytEf0__3wKn-QAtqjy3WhExZmqNVMBWwDHJp_fLhLBu3sFzoyo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"scratchpads","theme_token":"4QnmlYUC_ycWb5ByVXsCdZo4xVRiUE-L9bxmdW3e95g","jquery_version":"1.8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/overlay\/overlay-parent.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/custom\/entityfilter\/ckeditor\/entityfilter.css":1,"sites\/all\/modules\/custom\/field_quick_delete\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/remote_issue_tab\/css\/remote_issue_tab.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_show_taxa_revisions\/css\/scratchpads_show_taxa_revisions.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/custom\/spm\/css\/spm.css":1,"sites\/all\/modules\/custom\/twitterscript\/css\/twitterscript.css":1,"sites\/all\/modules\/custom\/twitter_filter\/css\/twitter_filter.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/biblio\/biblio.css":1,"modules\/openid\/openid.css":1,"public:\/\/spamicide\/feed_me.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_search_block\/css\/scratchpads_search_block.css":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_front\/css\/scratchpads_front.css":1,"sites\/all\/modules\/custom\/creative_commons\/css\/creative_commons.css":1,"sites\/all\/themes\/scratchpads\/css\/ie8.css":1,"public:\/\/css\/css_tcVOMdlRmJTsBkm7ZJABjZ3Oct1H-tB7QsRkmUkgNco.css":1,"sites\/all\/themes\/scratchpads\/css\/tabs.css":1,"sites\/all\/themes\/scratchpads\/css\/sites.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/scratchpads\/css\/global.css":1,"ie::normal::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default.css":1,"ie::normal::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default.css":1,"narrow::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default.css":1,"normal::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default.css":1,"wide::sites\/all\/themes\/scratchpads\/css\/scratchpads-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1},"js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/jquery.ba-bbq.js":1,"modules\/overlay\/overlay-parent.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/custom\/noclickety\/noclickety.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_contact\/js\/scratchpads_contact.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_file_colorboxed\/js\/scratchpads_file_colorboxed.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_issues_block\/js\/scratchpads_issues_block.js":1,"sites\/all\/modules\/custom\/spm\/js\/spm_config.js":1,"sites\/all\/modules\/custom\/twitterscript\/js\/twitterscript.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/contrib\/mediaelement\/mediaelement.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/contrib\/antibot\/js\/antibot.js":1,"modules\/openid\/openid.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/custom\/scratchpads\/scratchpads_search_block\/js\/scratchpads_search_block.js":1,"sites\/all\/themes\/scratchpads\/js\/scratchpads.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"mediaelementAll":true,"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/www.zootaxa.info\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 width=\u002216\u0022 height=\u002216\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/www.zootaxa.info\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 width=\u002232\u0022 height=\u002232\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/www.zootaxa.info\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 width=\u002232\u0022 height=\u002232\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":550,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/www.zootaxa.info\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 width=\u002232\u0022 height=\u002232\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022http:\/\/www.zootaxa.info\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 width=\u002232\u0022 height=\u002232\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"overlay":{"paths":{"admin":"node\/*\/clone\nfield-collection\/*\/*\/edit\nfield-collection\/*\/*\/delete\nfield-collection\/*\/add\/*\/*\nfile\/add\nfile\/add\/*\nfile\/*\/edit\nfile\/*\/delete\nmedia\/*\/edit\/*\nmedia\/browser\nmedia\/browser\/*\nnode\/*\/edit\nnode\/*\/delete\nnode\/*\/revisions\nnode\/*\/revisions\/*\/revert\nnode\/*\/revisions\/*\/delete\nnode\/add\nnode\/add\/*\nnode\/*\/group\ngroup\/*\/*\/admin\/*\nuser\/*\/openid\nuser\/*\/openid\/delete\noverlay\/dismiss-message\nfile\/*\/move\nscratchpads-front\/edit\nsetup\nsetup\/*\nsetup-complete\nuser\/register\nuser\/*\/shortcuts\nuser\/*\/spambot\nadmin\nadmin\/*\nbatch\ntaxonomy\/term\/*\/edit\nuser\/*\/cancel\nuser\/*\/edit\nuser\/*\/edit\/*\nnode\/*\/revisions\/view\/*\/*\nimport\nimport\/*\nbiblio\/import","non_admin":"admin\/structure\/block\/demo\/*\nimport\/*\/xlstemplate\nadmin\/reports\/status\/php"},"pathPrefixes":["en"],"ajaxCallback":"overlay-ajax"},"antibot":{"forms":{"user-login-form":{"action":"\/scratchpads-front?destination=scratchpads-front","key":"2d1379116de05898e27d9033859db912"}}},"urlIsAjaxTrusted":{"\/scratchpads-front?destination=scratchpads-front":true,"\/":true},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-2428547-2', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+<body class="html front not-logged-in page-scratchpads-front scratchpad-colour-047DB8 site-www-zootaxa-info">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-slide-top-wrapper" class="zone-wrapper zone-slide-top-wrapper clearfix">  
+  <div id="zone-slide-top" class="zone zone-slide-top clearfix container-12">
+    <aside class="grid-12 region region-slide-top" id="region-slide-top">
+  <div class="region-inner region-slide-top-inner">
+    <noscript>
+  <style>form.antibot { display: none !important; }</style>
+  <div class="antibot-no-js antibot-message antibot-message-warning messages warning">
+    You must have JavaScript enabled to use this form.  </div>
+</noscript>
+<div class="block block-user contextual-links-region block-login block-user-login odd" id="block-user-login">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form style="display:none" class="antibot" action="/antibot" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="clearfix" style="float:right"><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input tabindex="1" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input tabindex="2" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-openid-identifier">
+  <label for="edit-openid-identifier">Log in using OpenID </label>
+ <input type="text" id="edit-openid-identifier" name="openid_identifier" value="" size="15" maxlength="255" class="form-text" />
+<div class="description"><a href="http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input tabindex="3" type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div><div class="form-item form-type-checkbox form-item-remember-me">
+ <input tabindex="4" type="checkbox" id="edit-remember-me" name="remember_me" value="1" checked="checked" class="form-checkbox" />  <label class="option" for="edit-remember-me">Remember me </label>
+
+</div>
+<div class="account-links"><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li><li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div></div><input type="hidden" name="form_build_id" value="form-ma1hyLB6lZfSqUQI1GZ7XYyVYvx23yhFjJ9fPRq6duE" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="hidden" name="antibot_key" value="" />
+<input type="hidden" name="openid.return_to" value="http://www.zootaxa.info/openid/authenticate?destination=scratchpads-front" />
+<div class="edit-feed-me-wrapper"><div class="form-item form-type-textfield form-item-feed-me">
+  <label for="edit-feed-me">feed me </label>
+ <input type="text" id="edit-feed-me" name="feed_me" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div><div class="item-list"><ul class="openid-links"><li class="openid-link first"><a href="#openid-login">Log in using OpenID</a></li><li class="user-link last"><a href="#">Cancel OpenID login</a></li></ul></div></div></form>    </div>
+  </div>
+</div><a href="/user" class="scratchpads-slide-toggle">Log in</a>  </div>
+</aside>  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-12 region region-secondary-menu" id="region-secondary-menu">
+	<ul class="links"><li class="0 first"><a href="/contact/1">Contact us</a></li><li class="1 last"><a href="/contact/2">Report abuse</a></li></ul></div>
+<div class="grid-8 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="Zootaxa" class="active"><img src="http://www.zootaxa.info/sites/zootaxa.info/files/styles/thumbnail/public/logo.png?itok=aHMfV4Qp" alt="Zootaxa" id="logo" /></a>      </div>
+                        <hgroup class="site-name-slogan">        
+                                
+        <h1 class="site-name"><a href="/" title="Home" class="active">Zootaxa</a></h1>
+                                        <h6 class="site-slogan">A rapid international journal for animal taxonomists</h6>
+              </hgroup>
+          </div>
+          </div>
+</div><div class="grid-4 region region-header" id="region-header">
+  <div class="region-inner region-header-inner">
+    <div class="block block-search contextual-links-region block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="scratchpads-search-block-input"><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-search-block-form--2-autocomplete" value="http://www.zootaxa.info/index.php?q=scratchpads_search_block" disabled="disabled" class="autocomplete" />
+</div>
+<div class="form-item form-type-radios form-item-facet">
+  <div id="edit-facet" class="form-radios"><div class="form-item form-type-radio form-item-facet">
+ <input type="radio" id="edit-facet-all" name="facet" value="_all" checked="checked" class="form-radio" />  <label class="option" for="edit-facet-all">All </label>
+
+</div>
+<div class="form-item form-type-radio form-item-facet">
+ <input type="radio" id="edit-facet-taxonomy" name="facet" value="_taxonomy" class="form-radio" />  <label class="option" for="edit-facet-taxonomy">Taxonomy </label>
+
+</div>
+</div>
+</div>
+<input type="hidden" name="form_build_id" value="form-u-m-FjASKMWlQ9eOiixPKFKGPrtTJVDy0ee5Pdyhm10" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div>
+</div></form>    </div>
+  </div>
+</div>  </div>
+</div><div  class="grid-12 region region-menu" id="region-menu">
+	<div  class="region-inner region-menu-inner">
+        <nav class="navigation">
+      <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix main-menu"><li class="menu-491 first active"><a href="/" class="active">Home</a></li><li class="menu-677"><a href="/bio">Biography</a></li><li class="menu-537"><a href="/blog">Blogs</a></li><li class="menu-493"><a href="/forum">Forums</a></li><li class="menu-230"><a href="/biblio">Literature</a></li><li class="menu-233"><a href="/gallery">Media gallery</a></li><li class="menu-676 last"><a href="/classification/199">zootaxa</a></li></ul>    </nav>
+          </div>
+</div>
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+    
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+          <div id="breadcrumb" class="grid-12"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/biblio">Literature</a> » </div></div>
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+        
+            <div class="block block-system block-main block-system-main odd block-without-title gridless" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="grid-4 alpha"><h1 id="front-page-title" class="title"> Welcome to Zootaxa</h1> <p>This website is intended as a cybercommunity for authors, reviewers and editors (and other taxonomists) where they can share information and files, exchange ideas, collaborate with each other on taxonomic research. It is hoped that this cybercommunity can be a basis for a formal international society. It is intended as a tool and to provide service and support to the journal Zootaxa and the international society that is be to named and developed.</p>
+
+
+ </div><div class="grid-8 omega"><div class="view view-front-page-content view-id-front_page_content view-display-id-default view-dom-id-58619e14c3794825fd013687fbdbd4f2">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first"><article about="/node/2194" typeof="sioc:Item foaf:Document" class="node node-media-gallery node-promoted node-teaser contextual-links-region node-published node-not-sticky author-scratchpad-team odd clearfix" id="node-media-gallery-2194">
+    <header>
+            <h3 class="node-title"><a href="/node/2194" title="Library">Library</a></h3>
+        
+    <span property="dc:title" content="Library" class="rdf-meta element-hidden"></span>  </header>
+   
+  
+  <div class="content clearfix">
+      </div>
+      <footer class="submitted"><span property="dc:date dc:created" content="2013-04-09T17:49:22+01:00" datatype="xsd:dateTime">Tue, 2013-04-09 17:49</span> -- <span rel="sioc:has_creator"><a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">Scratchpad Team</a></span>  <div class="user-picture">
+    <a href="/user/1" title="View user profile."><img width="20px" height="20px" typeof="foaf:Image" src="http://www.gravatar.com/avatar/3dca6bf539c76e9149daa8e7589752f4.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" alt="http://www.gravatar.com/avatar/3dca6bf539c76e9149daa8e7589752f4.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" /></a>  </div>
+</footer>
+   
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article></li>
+          <li class="views-row views-row-2 views-row-even"><article about="/les-phl-botomes-diptera-psychodidae-de-la-guyane-fran-aise-i-description-du-m-le-de-lutzomyia-tricho" typeof="sioc:Item foaf:Document" class="node node-biblio node-promoted node-teaser contextual-links-region node-published node-not-sticky author-gantier even clearfix" id="node-biblio-2099">
+    <header>
+            <h3 class="node-title"><a href="/les-phl-botomes-diptera-psychodidae-de-la-guyane-fran-aise-i-description-du-m-le-de-lutzomyia-tricho" title="Les phlébotomes (Diptera: Psychodidae) de la Guyane française. I Description du mâle de Lutzomyia (Trichopygomyia) depaquiti n. sp.">Les phlébotomes (Diptera: Psychodidae) de la Guyane française. I Description du mâle de Lutzomyia (Trichopygomyia) depaquiti n. sp.</a></h3>
+        
+    <span property="dc:title" content="Les phlébotomes (Diptera: Psychodidae) de la Guyane française. I Description du mâle de Lutzomyia (Trichopygomyia) depaquiti n. sp." class="rdf-meta element-hidden"></span>  </header>
+   
+  
+  <div class="content clearfix">
+    <span class="biblio-authors" ><a href="/biblio?f%5Bauthor%5D=1" rel="nofollow" class="biblio-local-author">G. A. N. T. I. E. R.  J.C.</a></span>, <a href="/les-phl-botomes-diptera-psychodidae-de-la-guyane-fran-aise-i-description-du-m-le-de-lutzomyia-tricho">“<span class="biblio-title" >Les phlébotomes (Diptera: Psychodidae) de la Guyane française. I Description du mâle de Lutzomyia (Trichopygomyia) depaquiti n. sp.</span>”</a>, <span  style="font-style: italic;">Parasite</span>, vol. 13, pp. 11-15, 2006.<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title=Les+phl%C3%A9botomes+%28Diptera%3A+Psychodidae%29+de+la+Guyane+fran%C3%A7aise.+I+Description+du+m%C3%A2le+de+Lutzomyia+%28Trichopygomyia%29+depaquiti+n.+sp.&amp;rft.issn=1252-607X&amp;rft.date=2006&amp;rft.volume=13&amp;rft.spage=11&amp;rft.epage=15&amp;rft.aulast=J.C.&amp;rft.aufirst=GANTIER"></span>  </div>
+      <footer class="submitted"><span property="dc:date dc:created" content="2012-09-21T14:35:30+01:00" datatype="xsd:dateTime">Fri, 2012-09-21 14:35</span> -- <span rel="sioc:has_creator"><a href="/professor-jean-charles-gantier" title="View user profile." class="username" xml:lang="" about="/professor-jean-charles-gantier" typeof="sioc:UserAccount" property="foaf:name" datatype="">GANTIER</a></span>  <div class="user-picture">
+    <a href="/professor-jean-charles-gantier" title="View user profile."><img width="20px" height="20px" typeof="foaf:Image" src="http://www.gravatar.com/avatar/93dc321bbfb1ea14d78f2715bb6b7b9d.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" alt="http://www.gravatar.com/avatar/93dc321bbfb1ea14d78f2715bb6b7b9d.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" /></a>  </div>
+</footer>
+   
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article></li>
+          <li class="views-row views-row-3 views-row-odd"><article about="/iczn-amends-code-allow-e-publication" typeof="sioc:Post sioct:BlogPost" class="node node-blog node-promoted node-teaser contextual-links-region node-published node-not-sticky author-zhangzq odd clearfix" id="node-blog-2035">
+    <header>
+            <h3 class="node-title"><a href="/iczn-amends-code-allow-e-publication" title="ICZN amends the Code to allow e-publication">ICZN amends the Code to allow e-publication</a></h3>
+        
+    <span property="dc:title" content="ICZN amends the Code to allow e-publication" class="rdf-meta element-hidden"></span>  </header>
+   
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>The amendments to ICZN to allow e-only publicaiiton in zoological nomenclature was published:</p></div></div></div>  </div>
+      <footer class="submitted"><span property="dc:date dc:created" content="2012-09-04T22:15:03+01:00" datatype="xsd:dateTime">Tue, 2012-09-04 22:15</span> -- <span rel="sioc:has_creator"><a href="/user/2" title="View user profile." class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Zhang.ZQ</a></span>  <div class="user-picture">
+    <a href="/user/2" title="View user profile."><img width="20px" height="20px" typeof="foaf:Image" src="http://www.gravatar.com/avatar/10329511b8765d22a2eb7e9adc606153.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" alt="http://www.gravatar.com/avatar/10329511b8765d22a2eb7e9adc606153.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" /></a>  </div>
+</footer>
+   
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article></li>
+          <li class="views-row views-row-4 views-row-even"><article about="/two-new-species-megophrys-kuhl-van-hasselt-amphibia-megophryidae-western-thailand-and-southern-cambo" typeof="sioc:Post sioct:BlogPost" class="node node-blog node-promoted node-teaser contextual-links-region node-published node-not-sticky author-wangyy even clearfix" id="node-blog-2028">
+    <header>
+            <h3 class="node-title"><a href="/two-new-species-megophrys-kuhl-van-hasselt-amphibia-megophryidae-western-thailand-and-southern-cambo" title="Two new species of Megophrys Kuhl & van Hasselt (Amphibia: Megophryidae), from western Thailand and southern Cambodia. Zootaxa 2">Two new species of Megophrys Kuhl & van Hasselt (Amphibia: Megophryidae), from western Thailand and southern Cambodia. Zootaxa 2</a></h3>
+        
+    <span property="dc:title" content="Two new species of Megophrys Kuhl &amp; van Hasselt (Amphibia: Megophryidae), from western Thailand and southern Cambodia. Zootaxa 2" class="rdf-meta element-hidden"></span>  </header>
+   
+  
+  <div class="content clearfix">
+      </div>
+      <footer class="submitted"><span property="dc:date dc:created" content="2012-09-02T15:41:40+01:00" datatype="xsd:dateTime">Sun, 2012-09-02 15:41</span> -- <span rel="sioc:has_creator"><a href="/deputy-curator-bio-museum-sun-yat-sen-university-yingyong-wang" title="View user profile." class="username" xml:lang="" about="/deputy-curator-bio-museum-sun-yat-sen-university-yingyong-wang" typeof="sioc:UserAccount" property="foaf:name" datatype="">wangyy</a></span>  <div class="user-picture">
+    <a href="/deputy-curator-bio-museum-sun-yat-sen-university-yingyong-wang" title="View user profile."><img width="20px" height="20px" typeof="foaf:Image" src="http://www.gravatar.com/avatar/da33197fff80c8da23d43d0bb3038026.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" alt="http://www.gravatar.com/avatar/da33197fff80c8da23d43d0bb3038026.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" /></a>  </div>
+</footer>
+   
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+0026be
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last"><article about="/eye-less-spider-described-zootaxa-editor-received-media-coverage" typeof="sioc:Post sioct:BlogPost" class="node node-blog node-promoted node-teaser contextual-links-region node-published node-not-sticky author-zhangzq odd clearfix" id="node-blog-1996">
+    <header>
+            <h3 class="node-title"><a href="/eye-less-spider-described-zootaxa-editor-received-media-coverage" title="Eye-less spider described by Zootaxa editor received media-coverage">Eye-less spider described by Zootaxa editor received media-coverage</a></h3>
+        
+    <span property="dc:title" content="Eye-less spider described by Zootaxa editor received media-coverage" class="rdf-meta element-hidden"></span>  </header>
+   
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>Matter of fact, eyeless spider does live in a cave ....  Interview with Peter Jaeger ....</p>
+<p></p>
+<p><a href="http://www.msnbc.msn.com/id/48610283/ns/technology_and_science-science/">http://www.msnbc.msn.com/id/48610283/ns/technology_and_science-science/</a></p>
+<p></p>
+
+
+ </div></div></div>  </div>
+      <footer class="submitted"><span property="dc:date dc:created" content="2012-08-24T04:51:48+01:00" datatype="xsd:dateTime">Fri, 2012-08-24 04:51</span> -- <span rel="sioc:has_creator"><a href="/user/2" title="View user profile." class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Zhang.ZQ</a></span>  <div class="user-picture">
+    <a href="/user/2" title="View user profile."><img width="20px" height="20px" typeof="foaf:Image" src="http://www.gravatar.com/avatar/10329511b8765d22a2eb7e9adc606153.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" alt="http://www.gravatar.com/avatar/10329511b8765d22a2eb7e9adc606153.jpg?d=http%3A//www.zootaxa.info/sites/all/modules/contrib/gravatar/avatar.png&amp;s=100&amp;r=G" /></a>  </div>
+</footer>
+   
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>    </div>
+  </div>
+</div><section class="block block-views contextual-links-region block-front-page-blocks-block-1 block-views-front-page-blocks-block-1 even grid-4 alpha" id="block-views-front-page-blocks-block-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Recent Pages</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-front-page-blocks view-id-front_page_blocks view-display-id-block_1 alpha  view-dom-id-6310c3ca43e496483cc1f52ece659746">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/zoosystem-taxonomic-richess">Zoosystem: taxonomic richess</a></span>  </div>  
+  <div class="views-field views-field-created">        <p class="field-content description">Zhang.ZQ - 2008-07-20</p>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"> <p>
+ 
+</p>
+<p>
+Kingdom <strong>Animalia</strong>
+</p></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/zootaxa-contacts-0">Zootaxa Contacts</a></span>  </div>  
+  <div class="views-field views-field-created">        <p class="field-content description">Zhang.ZQ - 2008-05-27</p>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"> <p><strong>Coordinator</strong> <a href="mailto:ZhangZ@landcareresearch.co.nz">Zhi-Qiang Zhang</a> </p></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/contact">Contact</a></span>  </div>  
+  <div class="views-field views-field-created">        <p class="field-content description">Groll_Eckhard - 2008-03-27</p>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"> <p><strong>Coordinator</strong></p></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section><section class="block block-views contextual-links-region block-front-page-blocks-block-2 block-views-front-page-blocks-block-2 odd grid-4" id="block-views-front-page-blocks-block-2">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Recently Added Literature</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-front-page-blocks view-id-front_page_blocks view-display-id-block_2  view-dom-id-248d0c7f7997df61638e4c55fe9d7e34">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/les-phl-botomes-diptera-psychodidae-de-la-guyane-fran-aise-i-description-du-m-le-de-lutzomyia-tricho">Les phlébotomes (Diptera: Psychodidae) de la Guyane française. I Description du mâle de Lutzomyia (Trichopygomyia) depaquiti n. sp.</a></span>  </div>  
+  <div class="views-field views-field-created">        <p class="field-content description">GANTIER - 2012-09-21</p>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</section>      </div>
+</div>  </div>
+</section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer" id="region-footer">
+  <div class="region-inner region-footer-inner">
+    <div class="block block-scratchpads-blocks contextual-links-region block-footer-menu block-scratchpads-blocks-footer-menu odd block-without-title" id="block-scratchpads-blocks-footer-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/bio">Biography</a></li>
+<li class="collapsed"><a href="/blog">Blogs</a></li>
+<li class="collapsed"><a href="/forum">Forums</a></li>
+<li class="collapsed"><a href="/biblio">Literature</a></li>
+<li class="leaf"><a href="/gallery">Media gallery</a></li>
+<li class="leaf"><a href="/classification/199">zootaxa</a></li>
+<li class="leaf"><a href="http://scratchpads.eu/about/policies">Scratchpads Policies</a></li>
+<li class="last leaf"><a href="/rss.xml" class="feed-icon" title="Subscribe to RSS of Zootaxa"><img width="16" height="16" alt="Subscribe to RSS of Zootaxa" src="http://www.zootaxa.info/misc/feed.png" typeof="foaf:Image"></a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-scratchpads-blocks contextual-links-region block-footer-logos block-scratchpads-blocks-footer-logos even block-without-title" id="block-scratchpads-blocks-footer-logos">
+  <div c
